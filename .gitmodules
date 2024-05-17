@@ -1,16 +1,9 @@
 [submodule "python"]
 	path = python
 	url = git@github.com:sadelcarpio/introduction-to-algorithms-python.git
-	branch = main
 [submodule "cpp"]
 	path = cpp
 	url = git@github.com:sadelcarpio/introduction-to-algorithms-cpp.git
-	branch = main
-[submodule "java"]
-	path = java
-	url = git@github.com:sadelcarpio/introduction-to-algorithms-java.git
-	branch = main
 [submodule "rust"]
 	path = rust
 	url = git@github.com:sadelcarpio/introduction-to-algorithms-rust.git
-	branch = main
